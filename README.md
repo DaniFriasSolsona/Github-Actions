@@ -1,6 +1,6 @@
 # Plantilla para desarrollo guiado por pruebas en Python
 
-![Testing](https://github.com/DaniFriasSolsona/Github-Actions/actions/workflows/testing-pyton.yml/badge.svg)
+![Testing](https://github.com/DaniFriasSolsona/Github-Actions/actions/workflows/testing-python.yml/badge.svg)
 
 Proyecto base para crear aplicaciones siguiendo la metodología TDD
 
