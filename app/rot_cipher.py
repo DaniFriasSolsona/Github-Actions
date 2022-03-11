@@ -1,5 +1,5 @@
 def rot13_cipher(str_in, shift):
-    alpha = "abcdefghijklmnñopqrstuvwxyz"
+    alpha = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
     n = len(str_in)
     str_out = ""
 
